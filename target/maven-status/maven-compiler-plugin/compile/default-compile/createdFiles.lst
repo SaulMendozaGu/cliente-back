@@ -1,0 +1,9 @@
+saul\mendoza\gtz\service\Directorio.class
+saul\mendoza\gtz\repository\PersonaRespository.class
+saul\mendoza\gtz\resource\FacturaRestService.class
+saul\mendoza\gtz\entity\Factura.class
+META-INF\panache-archive.marker
+saul\mendoza\gtz\service\Ventas.class
+saul\mendoza\gtz\repository\FacturaRepository.class
+saul\mendoza\gtz\resource\DirectorioRestService.class
+saul\mendoza\gtz\entity\Persona.class
